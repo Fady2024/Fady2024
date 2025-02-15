@@ -3,36 +3,48 @@
 </div>
 
 # 🚀 About Me:
-### Hi there, I'm **Fady Gerges Kodsy** 👋
-🎓 **Computer Science Student** at Ain Shams University, Cairo, Egypt (GPA: **3.81/4.0**)<br>
-💡 Passionate about **Software Development, Problem-Solving, and Innovation**<br>
-🚀 Aspiring **Tech Leader**, eager to work on **impactful projects** and learn **new technologies**<br>
-🔭 Currently working on **JavaFX-based entertainment applications** and **Flutter mobile apps**<br>
-📚 Learning **Advanced Software Engineering & Cloud Technologies**<br>
-🎮 Developed **Award-Winning Fireboy and Watergirl Game** using **SFML (C++)**<br>
-⚡ In my free time, I enjoy **Competitive Coding, AI Research, and Mobile App Development**<br>
+### Hi there, I'm **Fady Gerges Kodsy** 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=🎓+Computer+Science+Student+at+Ain+Shams+University;💡+Passionate+about+Software+Development+and+Innovation;🚀+Aspiring+Tech+Leader%2C+eager+to+work+on+impactful+projects;🔭+Currently+working+on+JavaFX-based+apps;📱+Building+cross-platform+mobile+apps+with+Flutter;📚+Learning+Advanced+Software+Engineering+%26+Cloud;🎮+Developed+an+Award-Winning+Fireboy+and+Watergirl+Game;⚡+In+my+free+time%2C+I+enjoy+Competitive+Coding+and+AI)](https://github.com/fady2024)
 
 ---
+
 ## 🌍 Connect with Me:
 <p align="center">
     <a href="https://facebook.com/FadyGergesKodsy"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://linkedin.com/in/fady-gerges-kodsy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:fadygerges2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/fady2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,dart,flutter,html,css,mysql,sqlite,firebase,git" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,dart,flutter,html,css,mysql,sqlite,firebase,git,nodejs,react,aws,linux" alt="Tech Stack">
 </p>
+
+---
+
+## 🚀 Projects:
+### 🔥 **Fireboy and Watergirl Game**  
+- **Tech Stack:** SFML (C++)  
+- **Achievements:** Award-Winning Project  
+- **Description:** A multiplayer platformer game inspired by the classic Fireboy and Watergirl series.  
+
+### 🎬 **JavaFX Entertainment Applications**  
+- **Tech Stack:** Java, JavaFX  
+- **Description:** Interactive desktop applications for entertainment purposes, showcasing UI/UX design and backend logic.  
+
+### 📱 **Flutter Mobile Apps**  
+- **Tech Stack:** Flutter, Dart, Firebase  
+- **Description:** Cross-platform mobile applications with seamless performance and modern design.  
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fady2024&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fady2024&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fady2024" alt="GitHub Streak" /></a>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fady2024&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
@@ -56,4 +68,4 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=fady2024&label=Profile%20Views&color=blue&style=for-the-badge" alt="Visitor Count">
 </p>
- -->
+-->
