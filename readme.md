@@ -49,6 +49,7 @@
     </a>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fady2024&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies:
