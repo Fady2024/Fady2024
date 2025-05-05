@@ -43,11 +43,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fady2024&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fady2024" alt="GitHub Streak" /></a>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fady2024&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fady2024&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=fady2024&theme=synthwave" alt="GitHub Streak" />
+    </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fady2024&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies:
