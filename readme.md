@@ -39,27 +39,40 @@
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
-### 🔹 Fireboy and Watergirl Game
-- 🎮 Developed in **C++** using **SFML**
-- 🏆 Awarded at **Ain Shams University**
-- 🤝 Multiplayer support & custom physics engine
+<!-- PROJECTS:START -->
+<div align="center">
 
-### 🔹 JavaFX Entertainment Apps
-- 🎬 JavaFX desktop suite with subscriptions & login
-- 🎨 UI/UX with Scene Builder
-- 🔐 Secure auth and local file management
+<a href="https://github.com/fady2024/compiler-phases-3d">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=compiler-phases-3d&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/fady2024/reman">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=reman&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
 
-### 🔹 Flutter E-Commerce App
-- 🌍 Multi-language: Arabic, French, English
-- 🔐 Firebase + Google Sign-In
-- 💼 Bloc, themes, cart, and full profile system
+<a href="https://github.com/fady2024/Ecommerce-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=Ecommerce-app&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/fady2024/Ecommerce_project_LDC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=Ecommerce_project_LDC&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
 
-### 🔹 Gym & Padel System
-- 🖥️ Built with **C++/Qt6**
-- 📊 Used BSTs, Queues, Graphs for logic
-- 🌐 Multilingual UI & modern design
+<a href="https://github.com/fady2024/GreeAlexApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=GreeAlexApp&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+<a href="https://github.com/fady2024/GreeAlex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=GreeAlex&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+</a>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/fady2024?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_View_All_Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<!-- PROJECTS:END -->
 
 ---
 
