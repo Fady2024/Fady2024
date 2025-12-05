@@ -30,6 +30,32 @@ jobs:
           script: |
             const fs = require('fs');
             
+            // Language to badge mapping
+            const langBadges = {
+              'TypeScript': '![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)',
+              'JavaScript': '![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)',
+              'Dart': '![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)',
+              'C#': '![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)',
+              'C++': '![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)',
+              'C': '![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)',
+              'Python': '![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)',
+              'Java': '![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)',
+              'Kotlin': '![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)',
+              'Swift': '![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)',
+              'Go': '![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)',
+              'Rust': '![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)',
+              'PHP': '![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)',
+              'Ruby': '![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)',
+              'HTML': '![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)',
+              'CSS': '![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)',
+              'SCSS': '![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)',
+              'Shell': '![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)',
+              'PowerShell': '![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)',
+              'Vue': '![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)',
+              'Jupyter Notebook': '![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)',
+              'Assembly': '![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)',
+            };
+            
             // Fetch user's public repos
             const { data: repos } = await github.rest.repos.listForUser({
               username: 'fady2024',
@@ -46,25 +72,17 @@ jobs:
               !repo.archived
             ).slice(0, 6);
             
-            // Generate repo cards HTML
-            let projectsHtml = '<div align="center">\n\n';
+            // Generate table rows
+            let tableContent = '| Project | Description | Tech |\n|---------|-------------|------|\n';
             
-            filteredRepos.forEach((repo, index) => {
-              const card = `<a href="${repo.html_url}">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=${repo.name}&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-            </a>`;
-              projectsHtml += card + '\n';
-              if ((index + 1) % 2 === 0 && index < filteredRepos.length - 1) {
-                projectsHtml += '\n';
-              }
+            filteredRepos.forEach(repo => {
+              const name = repo.name;
+              const desc = repo.description || '📦 Project';
+              const lang = repo.language || 'Code';
+              const badge = langBadges[lang] || `![${lang}](https://img.shields.io/badge/-${lang}-gray?style=flat-square)`;
+              
+              tableContent += `| [**${name}**](${repo.html_url}) | ${desc} | ${badge} |\n`;
             });
-            
-            projectsHtml += '\n</div>\n\n';
-            projectsHtml += `<p align="center">
-              <a href="https://github.com/fady2024?tab=repositories">
-                <img src="https://img.shields.io/badge/🔗_View_All_Projects-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-              </a>
-            </p>`;
             
             // Read current README
             let readme = fs.readFileSync('readme.md', 'utf8');
@@ -74,7 +92,7 @@ jobs:
             const endMarker = '<!-- PROJECTS:END -->';
             const regex = new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, 'g');
             
-            const newContent = `${startMarker}\n${projectsHtml}\n${endMarker}`;
+            const newContent = `${startMarker}\n${tableContent}${endMarker}`;
             readme = readme.replace(regex, newContent);
             
             fs.writeFileSync('readme.md', readme);
