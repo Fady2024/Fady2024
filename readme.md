@@ -44,24 +44,24 @@
 <!-- PROJECTS:START -->
 <div align="center">
 
-<a href="https://github.com/fady2024/compiler-phases-3d">
+<a href="https://github.com/Fady2024/compiler-phases-3d">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=compiler-phases-3d&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/fady2024/reman">
+<a href="https://github.com/Fady2024/reman">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=reman&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
-<a href="https://github.com/fady2024/Ecommerce-app">
+<a href="https://github.com/Fady2024/Ecommerce-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=Ecommerce-app&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/fady2024/Ecommerce_project_LDC">
+<a href="https://github.com/Fady2024/Ecommerce_project_LDC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=Ecommerce_project_LDC&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
-<a href="https://github.com/fady2024/GreeAlexApp">
+<a href="https://github.com/Fady2024/GreeAlexApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=GreeAlexApp&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
-<a href="https://github.com/fady2024/GreeAlex">
+<a href="https://github.com/Fady2024/GreeAlex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fady2024&repo=GreeAlex&theme=tokyonight&border_color=6e5494&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
