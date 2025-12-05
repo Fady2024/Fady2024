@@ -68,12 +68,12 @@
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**compiler-phases-3d**](https://github.com/fady2024/compiler-phases-3d) | 🔧 3D Visualization of Compiler Phases | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**reman**](https://github.com/fady2024/reman) | 🌿 Eco-friendly men's fashion platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [**Ecommerce-app**](https://github.com/fady2024/Ecommerce-app) | 🛒 Multi-language E-commerce App | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| [**Ecommerce_project_LDC**](https://github.com/fady2024/Ecommerce_project_LDC) | 🏪 E-commerce Backend System | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| [**GreeAlexApp**](https://github.com/fady2024/GreeAlexApp) | 📱 Modern Web Application | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**WeatherNex**](https://github.com/fady2024/WeatherNex) | 🌤️ Weather Forecast Application | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| [**compiler-phases-3d**](https://github.com/Fady2024/compiler-phases-3d) | 📦 Project | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**reman**](https://github.com/Fady2024/reman) | Eco-friendly men’s fashion | Recycled • Redesigned • Restyled | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Ecommerce-app**](https://github.com/Fady2024/Ecommerce-app) | 📦 Project | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**Ecommerce_project_LDC**](https://github.com/Fady2024/Ecommerce_project_LDC) | 📦 Project | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| [**GreeAlexApp**](https://github.com/Fady2024/GreeAlexApp) | 📦 Project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**GreeAlex**](https://github.com/Fady2024/GreeAlex) | 📦 Project | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 <!-- PROJECTS:END -->
 
 <p align="center">
