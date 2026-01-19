@@ -68,10 +68,10 @@
 <!-- PROJECTS:START -->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**OS_Project_2025**](https://github.com/Fady2024/OS_Project_2025) | 📦 Project | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| [**Ecommerce-app**](https://github.com/Fady2024/Ecommerce-app) | 📦 Project | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| [**OS_Project_2025**](https://github.com/Fady2024/OS_Project_2025) | A comprehensive educational operating system kernel developed for teaching OS concepts at FCIS - Ain Shams University.  | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [**compiler-phases-3d**](https://github.com/Fady2024/compiler-phases-3d) | 📦 Project | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**reman**](https://github.com/Fady2024/reman) | Eco-friendly men’s fashion | Recycled • Redesigned • Restyled | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Ecommerce-app**](https://github.com/Fady2024/Ecommerce-app) | 📦 Project | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | [**Ecommerce_project_LDC**](https://github.com/Fady2024/Ecommerce_project_LDC) | 📦 Project | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 | [**GreeAlexApp**](https://github.com/Fady2024/GreeAlexApp) | 📦 Project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 <!-- PROJECTS:END -->
